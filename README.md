@@ -30,6 +30,11 @@
 * [Regularization](https://github.com/manishkakarla/Deep_Learning/blob/main/6.Initialization_2021_08_15_00_59_56.ipynb)
 * [Gradient checking](https://github.com/manishkakarla/Deep_Learning/blob/main/8.Gradient_Checking.ipynb)
 * [Convolution model step by step](https://github.com/manishkakarla/Deep_Learning/blob/main/9.Convolution_model_Step_by_Step.ipynb)
+#### 2.1.3)Convolution Neural Networks
+* [Convolution Model Application with Functional and Sequential api in keras](https://github.com/manishkakarla/Deep_Learning/blob/main/11.Convolution_model_Application.ipynb)
+* [Convolution model step by step with two different poolings,with stride padding and their uses](https://github.com/manishkakarla/Deep_Learning/blob/main/11.Convolution_model_Application.ipynb)
+* [Residual Networks implemented in keras](https://github.com/manishkakarla/Deep_Learning/blob/main/12.Residual_Networks.ipynb)
+* [autonomous car detection algorithm using Yolo algorithm](https://github.com/manishkakarla/Deep_Learning/blob/main/14.Autonomous_driving_application_Car_detection.ipynb)
 ### 2.2)DeepLearning.AI coursera TensorFlow Advanced Techniques
 
 
