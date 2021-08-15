@@ -1,5 +1,5 @@
-- # 👋 Hi, I’m @manishkakarla
-- # 👀 I’m interested in Machine learning and Data Science
+# 👋 Hi, I’m @manishkakarla
+
 
 
 
