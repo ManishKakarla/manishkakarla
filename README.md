@@ -4,8 +4,6 @@
 
 
 
-[![manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishkakarla)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 # 1)Machine learning Projects
