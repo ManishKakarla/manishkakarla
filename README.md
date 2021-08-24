@@ -39,6 +39,8 @@
 * [Residual Networks implemented in keras](https://github.com/manishkakarla/Deep_Learning/blob/main/12.Residual_Networks.ipynb)
 * [autonomous car detection algorithm using Yolo algorithm](https://github.com/manishkakarla/Deep_Learning/blob/main/14.Autonomous_driving_application_Car_detection.ipynb)
 ### 2.2)DeepLearning.AI coursera TensorFlow Advanced Techniques
+#### 2.2.1)Custom Models, Layers, and Loss Functions with TensorFlow
+* [
 
 
 
