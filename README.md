@@ -49,3 +49,4 @@
 * [The Android App Market on Google Play Store](https://github.com/manishkakarla/The-Android-App-Market-on-Google-Play)
 * [A Visual History of nobel Prizes](https://github.com/manishkakarla/A_visual_History_of_nobel_prizes)
 * [Investigating Netflix Movies and Guest Stars in "THE OFFICE" show](https://github.com/manishkakarla/-Investigating_Netflix_Movies_and_guest_stars_in_The_Office)
+* [Credit card applications](https://github.com/manishkakarla/credit_card_applications)
