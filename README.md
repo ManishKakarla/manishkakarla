@@ -40,9 +40,6 @@
 * [autonomous car detection algorithm using Yolo algorithm](https://github.com/manishkakarla/Deep_Learning/blob/main/14.Autonomous_driving_application_Car_detection.ipynb)
 ### 2.2)DeepLearning.AI coursera TensorFlow Advanced Techniques
 #### 2.2.1)Custom Models, Layers, and Loss Functions with TensorFlow
-* [
-
-
 
 # 3)Data Science Projects
 * [Analyzing TV Data Set](https://github.com/manishkakarla/Analyzing_Tv_Data)
@@ -50,3 +47,8 @@
 * [A Visual History of nobel Prizes](https://github.com/manishkakarla/A_visual_History_of_nobel_prizes)
 * [Investigating Netflix Movies and Guest Stars in "THE OFFICE" show](https://github.com/manishkakarla/-Investigating_Netflix_Movies_and_guest_stars_in_The_Office)
 * [Credit card applications](https://github.com/manishkakarla/credit_card_applications)
+
+# 4)Computer Vision Projects
+* [Agriculture vision using Pytorch](https://github.com/manishkakarla/Agriculture-vision-app)
+* [Merging two similar dominant color From facebook using google cloud vision](https://github.com/manishkakarla/ExerciseFB/wiki)
+
