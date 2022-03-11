@@ -21,6 +21,8 @@
 * [Text learning](https://github.com/manishkakarla/udacity_mini_projects/tree/main/updated/ud120-projects-py3-jupyter/11-text-learning)
 ### 1.2) [Voting Classifier](https://github.com/manishkakarla/voting-Classifier)
 
+### 1.3) [Travelers saleman problem with different optimization algorithms Genetic Algorithm,Ant colony optimization](https://github.com/manishkakarla/CS_697A)
+
 # 2)Deep Learning Projects
 ### 2.1)Deep Learning.AI Coursera Deep Learning Specialization
 #### 2.1.1)Neural Networks and Deep Learning
@@ -50,5 +52,8 @@
 
 # 4)Computer Vision Projects
 * [Agriculture vision using Pytorch](https://github.com/manishkakarla/Agriculture-vision-app)
+* 
 * [Merging two similar dominant color From facebook using google cloud vision](https://github.com/manishkakarla/ExerciseFB/wiki)
 
+# 5) Research on machine learning Accelerator
+* [Improving mobilenetv1 by reducing the parameters of the mobilenetv1](https://github.com/manishkakarla/Research_accelerator)
