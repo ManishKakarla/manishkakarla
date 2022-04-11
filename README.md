@@ -22,6 +22,8 @@
 ### 1.2) [Voting Classifier](https://github.com/manishkakarla/voting-Classifier)
 
 ### 1.3) [Travelers saleman problem with different optimization algorithms Genetic Algorithm,Ant colony optimization](https://github.com/manishkakarla/CS_697A)
+### 1.4) [Agglomarative clustering/bottom up approach from scratch](https://github.com/manishkakarla/CS_697A/blob/master/Agglomerative_clustering.ipynb)
+### 1.5) [kmeans working understanding with example](https://github.com/manishkakarla/CS_697A/blob/master/Kmeans.ipynb)
 
 # 2)Deep Learning Projects
 ### 2.1)Deep Learning.AI Coursera Deep Learning Specialization
